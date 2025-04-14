@@ -44,17 +44,13 @@
 ## 📌 Featured Projects
 
 - **Portfolio**: [Live Demo](https://morteza-darzi.liara.run/) | [Code](https://github.com/githubmor/portfolio)
-- **E-commerce Shop**: Next.js + TypeScript project
-- **LearnAI**: ChatGPT integration project
+- **E-commerce Shop**: [Live Demo](https://shop-dr.liara.run/) | [Code](https://github.com/githubmor/shop.dr)
+- **LearnAI**: ChatGPT integration project, [Code](https://github.com/githubmor/ai-learn)
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="top">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=githubmor&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=githubmor&theme=radical" />
-</p>
-
-<p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubmor&layout=compact&theme=radical" />
 </p>
 
