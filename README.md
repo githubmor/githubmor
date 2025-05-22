@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Morteza Darzi 👋</h1>
-<h3 align="center">Full Stack Developer | React, Next.Js & .NET Specialist</h3>
+<h3 align="center">Front end Developer | React, Next.Js</h3>
 
 <p align="center">
   <a href="https://github.com/githubmor">
